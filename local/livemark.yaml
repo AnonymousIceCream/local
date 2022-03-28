@@ -1,0 +1,15 @@
+brand:
+  text: Livemark Practice Project
+about:
+  text: A Livemark Practice Template
+site:
+  favicon: assets/favicon.ico
+  styles:
+    - style.css
+  scripts:
+    - script.js
+pages:
+  items:
+    - path: index
+    - path: pages/indexa
+    - path: pages/indexb
